@@ -4,5 +4,6 @@ public class Main {
         DamnBigNumber num2 = new DamnBigNumber("456");
         DamnBigNumber result = DamnBigNumbers.add(num1, num2);
         System.out.println("Result: " + result.getNumber());
+        67
     }
 }
