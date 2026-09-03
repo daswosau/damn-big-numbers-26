@@ -7,3 +7,4 @@ public class DamnBigNumber {
         return number;
     }
 } // szia
+// üdv nigga
