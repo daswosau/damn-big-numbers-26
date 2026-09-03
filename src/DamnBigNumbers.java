@@ -4,4 +4,4 @@ public class DamnBigNumbers {
         return new DamnBigNumber("0");
     }
 }
-// hüje vagy
+// hüje vagy BAZDMEG NIGGER
