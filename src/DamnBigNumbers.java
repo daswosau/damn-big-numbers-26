@@ -1,10 +1,7 @@
-public class DamnBigNumber {
-    private String number;
-    public DamnBigNumber(String number) {
-        this.number = number;
-    }
-    public String getNumber() {
-        return number;
+public class DamnBigNumbers {
+    public static DamnBigNumber add(DamnBigNumber a, DamnBigNumber b) {
+// TODO: Implement addition logic
+        return new DamnBigNumber("0");
     }
 }
 // hüje vagy
