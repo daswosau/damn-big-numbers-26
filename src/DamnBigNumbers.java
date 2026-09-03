@@ -7,3 +7,4 @@ public class DamnBigNumber {
         return number;
     }
 }
+// hüje vagy
