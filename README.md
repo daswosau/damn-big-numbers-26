@@ -1,5 +1,2 @@
 # damn-big-numbers-26
-none thing 
-
-
-676767
+# my monkey boy
