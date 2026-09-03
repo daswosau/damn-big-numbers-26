@@ -4,4 +4,4 @@ public class DamnBigNumbers {
         return new DamnBigNumber("0");
     }
 }
-// hüje vagy BAZDMEG NIGGER kösz szivi
+// hüje vagy BAZDMEG NIGGER kösz szivi diddeld meg magad
