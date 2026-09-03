@@ -6,4 +6,4 @@ public class DamnBigNumber {
     public String getNumber() {
         return number;
     }
-}
+} // szia
