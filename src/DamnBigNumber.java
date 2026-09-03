@@ -1,6 +1,6 @@
 public class DamnBigNumber {
     private String number;
-    public DamnBigNumber(Str67ing number) {
+    public DamnBigNumber(String number) {
         this.number = number;
     }
     public String getNumber() {

@@ -1,7 +1,6 @@
 public class DamnBigNumbers {
-    public static D67amnBigNumber add(DamnBigNumber a, DamnBigNumber b) {
+    public static DamnBigNumber add(DamnBigNumber a, DamnBigNumber b) {
 // TODO: Implement addition logic
-        return new DamnBigNumber("0");
+        return new DamnBigNumber("67");
     }
 }
-// hüje vagy BAZDMEG NIGGER kösz szivi diddeld meg magad
