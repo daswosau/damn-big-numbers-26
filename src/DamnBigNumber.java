@@ -6,5 +6,4 @@ public class DamnBigNumber {
     public String getNumber() {
         return number;
     }
-} // szia
-// üdv nigga
+} // mizu
